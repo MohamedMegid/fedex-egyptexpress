@@ -1,0 +1,203 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Created on : Feb 1, 2015, 4:16:18 PM
+    Author     : yasser
+*/
+
+*{
+    direction: rtl;
+}
+.header .navbar-nav{
+    float:left !important;
+}
+
+.header .topbar ul.languages li.active a i{
+    float:left;
+}
+
+.sky-form .radio input, .sky-form .checkbox input{
+    right:-9999px !important;
+}
+
+#topcontrol{
+    left:5px !important;
+}
+#topcontrol:after{
+    right:8.5px !important;
+}
+
+.slides{
+    margin: 0 -375px 0 0;
+}
+.slides li{
+    float:right !important;
+}
+.posts .sky-form fieldset{
+    padding: 0 0 5px;
+}
+.sky-form .inline-group{
+    margin: 0 0 -4px;
+}
+
+.sky-form .inline-group .radio, .sky-form .inline-group .checkbox{
+    float: right;
+    margin:0 0 0 30px !important;
+}
+.sky-form .radio, .sky-form .checkbox{
+    padding-right: 27px;
+}
+
+.sky-form .radio input + i:after{
+    right:5px !important;
+}
+
+.sky-form .radio i, .sky-form .checkbox i{
+    right:0 !important;
+}
+
+.link-list li i{
+    float:left;
+}
+
+.footer-v1 .footer-socials{
+    text-align: left;
+}
+
+h1.pull-left{
+    float:right !important;
+}
+
+ul.pull-right{
+    float:left !important;
+}
+.tag-box-v2{
+    border-left:1px solid #EEEEEE;
+    border-right: 2px solid #f46600;
+}
+.timeline-v2:before{
+    margin-right: -14px;
+    right: 22%;
+}
+.timeline-v2 > li .cbp_tmtime{
+    width:auto !important;
+}
+.timeline-v2 > li .cbp_tmtime span{
+    text-align: left;
+}
+.timeline-v2 > li .cbp_tmicon{
+    margin: 0 -17px 0 0;
+    right: 22%;
+}
+.timeline-v2 > li .cbp_tmlabel:after{
+    right: -3% !important;
+    border-right-color: transparent !important;
+    border-left-color: #ffffff !important;
+}
+.timeline-v2 > li .cbp_tmlabel{
+    margin: 0 25% 40px 0;
+}
+
+.largephone span{
+    -moz-transform: scale(-1, 1);
+    -webkit-transform: scale(-1, 1);
+    -o-transform: scale(-1, 1);
+    -ms-transform: scale(-1, 1);
+    transform: scale(-1, 1);
+    margin:0 0 0 10px;
+}
+
+html{
+    overflow-x: hidden;
+}
+
+.sky-form .label{
+    text-align: right;
+}
+
+.sky-form .select select{
+    padding: 6px 30px;
+}
+
+.header .navbar-default .navbar-nav > li > a {
+    margin:0 30px 0 0;
+}
+.newheight{
+    height:250px;
+}
+.newheight h2{
+    height:45px;
+}
+.newheight p{
+    height:137px;
+    overflow: auto;
+    padding-left: 5px;
+    text-align: justify;
+    margin:0;
+    padding-top:0;
+    padding-bottom:0;
+}
+.newheight button:hover{
+    font-weight: bold;
+}
+.calsub{
+    width:100%;
+}
+.calsub .calculate{
+    float: right;
+    font-size: 25px;
+    width: 100%;
+    font-weight: bold;
+}
+.calsub .cosest {
+    float: right;
+    font-size: 18px;
+    width: 100%;
+}
+.calresult{
+    border: 1px solid #ef7d00;
+    border-radius: 5px;
+    float: right;
+    height: 70px;
+    width:100%;
+    color: #000;
+    font-size: 45px;
+    text-align: center;
+}
+.blockheight{
+    height:400px;
+}
+.content{
+    padding-top:0;
+    padding-bottom:0;
+}
+.aboutitem{
+    height:475px;
+}
+.aboutitem p{
+    padding-top:10px;
+    height:200px;
+    text-align: justify;
+}
+@media screen and (max-width: 990px) {
+
+    .specificmargin{
+        margin-top:0 !important;
+    }
+    .header .navbar-nav{
+        float:none !important;
+    }
+    .header .navbar-default .navbar-nav > li > a{
+        margin:0 !important;
+    }
+    .blockheight{
+        height:450px;
+    }
+}
+
+#lastScan, #lastScanf{
+    margin-right: -20px !important;
+}

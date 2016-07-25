@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<configuration date="2015/02/16" author="e.World Technology Ltd.">
+<project id="{51AFFC50-D173-42CF-8568-DFD13A65B5CC}" file="F:\egyptexpress\PMP\egyptexpress.pmp" name="egyptexpress" product="PHPMaker" version="11.0" datetime="2015/02/16 14:53:20" languagefolder="phplang" userlevel="0,&quot;Default&quot;,0">
+<table id="accounts" name="accounts" caption="accounts" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="cms" name="cms" caption="cms" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="contact_inquiries" name="contact_inquiries" caption="contact inquiries" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="faq" name="faq" caption="faq" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="home_page_panels" name="home_page_panels" caption="home page panels" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="job_candidates" name="job_candidates" caption="job candidates" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="jobs" name="jobs" caption="jobs" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="latest_shots" name="latest_shots" caption="latest shots" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="our_clients" name="our_clients" caption="our clients" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="our_teams" name="our_teams" caption="our teams" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="pickup_requests" name="pickup_requests" caption="pickup requests" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="slider" name="slider" caption="slider" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="translation" name="translation" caption="translation" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="administrator" name="administrator" caption="administrator" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="branches" name="branches" caption="branches" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+<table id="services" name="services" caption="services" userlevel="0,&quot;Default&quot;,0" priv="1"/>
+</project></configuration>

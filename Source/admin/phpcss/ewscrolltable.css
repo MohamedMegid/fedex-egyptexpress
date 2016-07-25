@@ -1,0 +1,18 @@
+/* styles for scrolling table */
+.ewScrollableTable .ewScrollableTableHeader {
+	overflow: hidden;	
+}
+.ewScrollableTable .ewScrollableTableHeader > table {
+	border-collapse: separate;
+}
+.ewScrollableTable .ewScrollableTableHeader .ewScrollableTableOverhang {
+	padding: 0;
+	border: 0;
+	border-bottom: 1px solid; /* header border width */
+	border-color: #DDDDDD; /* header border color */
+	background-color: #FF7104; /* header bgcolor	*/
+	background-image: -webkit-linear-gradient(top, #FF7104, #FF7104);	
+	background-image: linear-gradient(to bottom, #FF7104, #FF7104);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF7104', endColorstr='#FF7104', GradientType=0);
+	background-repeat: repeat-x;		
+}
